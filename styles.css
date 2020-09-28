@@ -6,6 +6,7 @@ body {
 .assignment {
     display:flex;
     padding:10px;
+    margin:10px;
 }
 
 .assignment img {
@@ -14,6 +15,6 @@ body {
 }
 
 h1 {
-    color : grey;
+    color : darkblue;
     text-align: center;
 }
